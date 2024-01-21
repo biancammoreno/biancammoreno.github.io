@@ -18,9 +18,7 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a second year PhD student at INRIA [Thoth] (https://team.inria.fr/thoth/), and at [EDF R&D] (https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise). I work under the supervision of [Pierre Gaillard] (http://pierre.gaillard.me/index.html), from INRIA, [Nadia Oudjane] (https://fime-lab.org/oudjane-nadia/), from EDF R&D and [Margaux Brégère] (https://margauxbregere.github.io/), from both EDF R&D and Sorbonne Université probability, statistics and modelisation lab [(LPSM)] (https://www.lpsm.paris/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on the intersection of reinforcement learning and online learning algorithms, particularly within the context of mean field games and mean field control. I am interested in understanding the theoretical aspects of sequential decision making while also exploring their practical applications in energy management scenarios.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
