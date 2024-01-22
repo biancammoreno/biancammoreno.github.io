@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: INRIA and EDF R&D. Contact me at bianca.marin-moreno_at_inria.fr.
+subtitle: PhD student at INRIA and EDF R&D. Contact me at bianca.marin-moreno_at_inria.fr.
 
 profile:
   align: right
