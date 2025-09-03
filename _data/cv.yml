@@ -43,9 +43,16 @@
       description:
         - Developing and implementing algorithms for well drilling. Also implemented a graphical interface joined into the company software
 
-- title: Teaching
+- title: Teaching Assistant
   type: time_table
   contents:
+     - title: Reinforcement Learning
+      institution: <a href="https://www.ip-paris.fr/">CentraleSupélec</a>, Gif-sur-Yvette, France
+      year: 2025-2025
+      description: 
+       - Master 1 level
+       - Instructor - <a href="https://hedi-hadiji.github.io/">Hédi Hadiji</a>    
+
     - title: Times series
       institution: <a href="https://www.ip-paris.fr/">Institut Polytechnique de Paris</a>, Palaiseau, France
       year: 2022-2024
